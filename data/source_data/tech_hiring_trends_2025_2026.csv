@@ -1,0 +1,22 @@
+Company,Role,Number_Positions,Date_Posted,Salary_Min,Salary_Max,Location,Country,Remote,Skills_Required,Experience_Years,Department,Year,Month,Salary_Average
+OpenAI,AI Research Scientist,150,2026-02-01,180000,350000,"San Francisco, CA",USA,Hybrid,"PyTorch, Transformers, NLP, Research",5,Research,2026,2,265000.0
+Google,ML Engineer - Gemini,200,2026-02-08,160000,280000,"Mountain View, CA",USA,Hybrid,"TensorFlow, Python, LLMs, MLOps",4,AI,2026,2,220000.0
+Meta,AI Safety Engineer,80,2026-01-15,175000,320000,"Menlo Park, CA",USA,Hybrid,"RLHF, AI Alignment, Python",3,AI Research,2026,1,247500.0
+Anthropic,Prompt Engineer,45,2026-01-20,140000,220000,"San Francisco, CA",USA,Remote,"LLMs, API Integration, Testing",2,Product,2026,1,180000.0
+Microsoft,AI Product Manager,120,2026-01-25,150000,250000,"Redmond, WA",USA,Hybrid,"Product Strategy, AI/ML, Copilot",5,Product,2026,1,200000.0
+Amazon,Cloud Security Engineer,180,2026-02-05,145000,230000,"Seattle, WA",USA,Hybrid,"AWS Security, IAM, Zero Trust",4,Security,2026,2,187500.0
+Cisco,Cybersecurity Analyst,95,2026-01-18,110000,175000,"San Jose, CA",USA,Hybrid,"SIEM, Threat Detection, Incident Response",3,Security,2026,1,142500.0
+Palo Alto Networks,Security Architect,70,2026-02-10,165000,275000,"Santa Clara, CA",USA,Hybrid,"Network Security, Cloud Security, Architecture",7,Security,2026,2,220000.0
+Snowflake,Data Engineer,130,2026-01-22,135000,210000,"San Mateo, CA",USA,Remote,"SQL, Python, ETL, Data Pipelines",3,Engineering,2026,1,172500.0
+Databricks,MLOps Engineer,85,2026-02-03,150000,240000,"San Francisco, CA",USA,Remote,"Kubernetes, Docker, ML Pipelines, Spark",4,Engineering,2026,2,195000.0
+Tableau,Analytics Engineer,60,2026-01-28,115000,180000,"Seattle, WA",USA,Hybrid,"SQL, Python, BI Tools, dbt",3,Analytics,2026,1,147500.0
+GitLab,DevOps Engineer,75,2026-02-01,125000,195000,Remote,USA,Remote,"CI/CD, Kubernetes, Terraform, AWS",4,Infrastructure,2026,2,160000.0
+HashiCorp,Site Reliability Engineer,55,2026-01-30,145000,225000,"San Francisco, CA",USA,Remote,"SRE, Monitoring, Automation, Go",5,Infrastructure,2026,1,185000.0
+Stripe,Full Stack Engineer,110,2026-02-07,140000,220000,"San Francisco, CA",USA,Hybrid,"React, Node.js, TypeScript, APIs",3,Engineering,2026,2,180000.0
+Shopify,Backend Engineer,90,2026-01-24,130000,200000,"Ottawa, Canada",Canada,Remote,"Ruby, Rails, Microservices, SQL",4,Engineering,2026,1,165000.0
+Atlassian,Senior Software Engineer,100,2026-02-11,155000,235000,"Sydney, Australia",Australia,Hybrid,"Java, Spring, Distributed Systems",6,Engineering,2026,2,195000.0
+Adobe,AI Product Designer,50,2026-02-02,125000,190000,"San Jose, CA",USA,Hybrid,"UX/UI, Figma, AI Tools, Prototyping",4,Design,2026,2,157500.0
+Canva,Product Manager,65,2026-01-29,135000,210000,"Sydney, Australia",Australia,Hybrid,"Product Strategy, User Research, Analytics",5,Product,2026,1,172500.0
+Tesla,Robotics Engineer,140,2026-02-06,140000,230000,"Austin, TX",USA,Onsite,"ROS, Computer Vision, C++, Python",4,Engineering,2026,2,185000.0
+Apple,AR/VR Engineer,85,2026-01-19,160000,270000,"Cupertino, CA",USA,Onsite,"Unity, ARKit, 3D Graphics, Swift",5,Hardware,2026,1,215000.0
+Nvidia,GPU Architect,60,2026-02-09,180000,300000,"Santa Clara, CA",USA,Hybrid,"GPU Architecture, CUDA, Hardware Design",8,Hardware,2026,2,240000.0
