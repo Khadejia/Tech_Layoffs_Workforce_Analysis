@@ -104,13 +104,13 @@ The SQL workflow includes:
 
 ## Workforce Impact Overview Dashboard
 
-<img width="1199" height="1099" alt="Summary" src="https://github.com/user-attachments/assets/425fb38b-6cc4-4784-84f7-be5bc1da5759" />
+<img width="1199" height="1099" alt="Summary" src="https://github.com/user-attachments/assets/580b433f-e949-41c7-bd38-709c7e190c95" />
 
 ---
 
 ## Company Records Dashboard
 
-<img width="1199" height="1099" alt="Records" src="https://github.com/user-attachments/assets/8db85eb4-46cd-4192-832d-211181a6b6ba" />
+<img width="1199" height="1099" alt="Records" src="https://github.com/user-attachments/assets/77b71e8d-078f-4659-9f47-1d9caa3a9e27" />
 
 ---
 
